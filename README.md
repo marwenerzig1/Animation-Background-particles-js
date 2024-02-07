@@ -4,5 +4,4 @@
 ##### C : So the challenge is to use this library and search for ways to change the design, color, and finally learn how to use it.
 
 
-
-![particuler js](https://user-images.githubusercontent.com/86536189/182706632-d34917bf-9d9e-4c63-bdc9-d6dc1143c384.jpg)
+![fff](https://github.com/marwenerzig1/Animation-Background-particles-js/assets/86536189/76106c25-a23c-4d1e-8d69-574ce8e399eb)
